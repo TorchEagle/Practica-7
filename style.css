@@ -1,0 +1,19 @@
+p {
+    font-weight: bold;
+}
+
+ul {
+    list-style-type: circle;
+}
+
+ol.primerplato {
+    list-style-type: decimal;
+}
+
+ol.fideua {
+    list-style-type: upper-roman;
+}
+
+ol.segundoplato {
+    list-style-type: lower-latin;
+}
